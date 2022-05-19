@@ -1,0 +1,16 @@
+{
+    "Tokens": [
+        {
+            "symbol": "QTBK",
+            "name": "Quantbook Token",
+            "decimals": 18,
+            "contractAddress": "0x3719c0947AA4D5dcd67ca6f234d3905e1D54c5d9"
+        },
+        {
+            "symbol": "QTBG",
+            "name": "Quantbook Governance",
+            "decimals": 18,
+            "contractAddress": "0xc226E89938f9aA0C54619A0D0E5949BE894400fd"
+        }
+    ]
+}
